@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sql%20server-%23276EC2.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" >
 </section>
 <hr>
 <section id='other'>
